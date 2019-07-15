@@ -9,15 +9,24 @@
 </head>
 <body>
     <header>
-        Vremenska prognoza
+        
     </header>
-
-    <main>
-            <input type="text" id="input" placeholder="Ime grada">  
+    <nav>
+        <ul>
+            <li class="active"><a href="index.html">VREME DANAS</a></li>
+            <li><a href="visednevna.html">VIŠEDNEVNA PROGNOZA</a></li>
+            <li><a href="po_satima.html">VREME PO SATIMA</a></li>
+        </ul>
+    </nav>
+    <main>  
+        <div class="pretraga">
+            <input type="text" id="input" placeholder="Ime grada"><br>
+            <button id="dugmePrvo">Prikaži</button>
+        </div>
         <div id="vremeDiv">
             <div id="div1">
                 <h3 class="natpis">Grad</h3>
-                <div id="asd">
+                <div id="slika">
                     <img src="" alt="" id="icon">
                     <div id="grad"></div>
                 </div>
@@ -26,16 +35,18 @@
             <div id="div2">
                 <h3 class="natpis">Temperatura</h3>
                 <div id="temp"></div>
+                <div id="desc"></div>
             </div>
             <div id="div3">
                 <h3 class="natpis">Vetar</h3>
-                <div id="vetar"></div>
+                <div id="vetarBrzina"></div>
+                <div id="vetarPravac"></div>
             </div>
         </div>
     </main>
         
     <footer>
-        Futer
+            Copyright © 2019. Igor Lakić
     </footer>
 
     <script src="script.js"></script>
