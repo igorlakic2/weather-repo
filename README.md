@@ -1,2 +1,10 @@
 #weather repo 
 ![Alt text](readme_img/ss1.jpg?raw=true "Title")
+![Alt text](readme_img/ss2.jpg?raw=true "Title")
+![Alt text](readme_img/ss3.jpg?raw=true "Title")
+![Alt text](readme_img/ss4.jpg?raw=true "Title")
+![Alt text](readme_img/ss5.jpg?raw=true "Title")
+![Alt text](readme_img/ss6.jpg?raw=true "Title")
+![Alt text](readme_img/ss7.jpg?raw=true "Title")
+![Alt text](readme_img/ss8.jpg?raw=true "Title")
+![Alt text](readme_img/ss9.jpg?raw=true "Title")
